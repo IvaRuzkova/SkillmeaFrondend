@@ -1,0 +1,15 @@
+.nadpis {
+color:red;
+}
+
+#nadpis2 {
+    color: blue;
+    background-color: yellowgreen;
+    background-image: url(Marge.jpg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 300%;
+}
+
+.odstavec {
+    color: pink;
+}
